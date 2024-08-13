@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tamoghna-Saha
-- 💻 Working as a Senior Data Scientist in Ford Motor Company
+- 💻 Working as a AI Safety Data Scientist in Google
 - 🧑‍🎓 Currently pursuing Online Masters in Analytics from Georgia Tech
-- 👀 I’m interested in Machine Learning, NLP, Time Series Analysis
-- 🌱 I’m currently learning Google Cloud Platform, Active Learning Mechanism
-- 💞️ I’m looking to collaborate on Kaggle competitions related to NLP
+- 👀 I’m interested in LLM, NLP, Machine Learning
+- 🌱 I’m learning LLM finetuning and LLM evaluation
+- 💞️ I’m looking to collaborate on Kaggle competitions related to NLP, LLM
 - 📫 Drop a message in [LinkedIn](https://www.linkedin.com/in/tamoghna-saha-12603a92/)
 
 <!---
